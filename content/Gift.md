@@ -1,7 +1,7 @@
 ---
-title: "Red Pepper Miso Wings"
-date: 2018-12-26T12:28:47+06:00
-image: images/blog/blog-img-3.jpg
+title: "Gift"
+date: 2018-12-26T12:30:01+06:00
+image: images/blog/blog-img-8.jpg
 type: "post"
 ---
 
