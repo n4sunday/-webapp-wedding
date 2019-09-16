@@ -426,13 +426,13 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 }
 .left-pic {
   display: flex;
-  margin: 20px 0 20px 0;
+  margin: 10px 0 10px 0;
   border: 1px solid #c1c1c1;
   border-radius: 10px;
 }
 .right-pic {
   display: flex;
-  margin: 20px 0 20px 0;
+  margin: 10px 0 10px 0;
   border: 1px solid #c1c1c1;
   border-radius: 10px;
 }
@@ -445,7 +445,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   overflow: hidden;
 }
 .pic {
-  height: 100%;
+  min-height: 100%;
 }
 .left {
   border-radius: 0 10px 10px 0;

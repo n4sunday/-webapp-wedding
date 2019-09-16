@@ -359,4 +359,41 @@ px      68    160    252    */
     text-align: center;
     padding-top: 0px;
   }
+
+  /*
+    Contents
+  */
+  .box {
+    display: flex;
+    flex-direction: column;
+  }
+  .left-pic {
+    display: flex;
+    flex-direction: column-reverse;
+    border: 1px solid #c1c1c1;
+    border-radius: 10px;
+  }
+  .right-pic {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #c1c1c1;
+    border-radius: 10px;
+  }
+  .des {
+    width: 100%;
+    padding: 25px;
+  }
+  .des-img {
+    width: 100%;
+    overflow: hidden;
+  }
+  .pic {
+    width: 100%;
+  }
+  .left {
+    border-radius:  10px 10px 0 0;
+  }
+  .right {
+    border-radius:  10px 10px 0  0;
+  }
 }
