@@ -420,6 +420,45 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   margin-bottom:20px;
 }
 
+.box {
+  display: flex;
+  flex-direction: column;
+}
+.left-pic {
+  display: flex;
+  margin: 20px 0 20px 0;
+  border: 1px solid #c1c1c1;
+  border-radius: 10px;
+}
+.right-pic {
+  display: flex;
+  margin: 20px 0 20px 0;
+  border: 1px solid #c1c1c1;
+  border-radius: 10px;
+}
+.des {
+  width: 50%;
+  padding: 25px;
+}
+.des-img {
+  width: 50%;
+  overflow: hidden;
+}
+.pic {
+  height: 100%;
+}
+.left {
+  border-radius: 0 10px 10px 0;
+}
+.right {
+  border-radius: 10px 0 0 10px;
+}
+.headtitle {
+  color: #4f97ad;
+  margin-bottom: 10px;
+}
+
+
 
 
 

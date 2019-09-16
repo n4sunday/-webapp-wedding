@@ -6,12 +6,83 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
-                <img class="img-responsive post-thumb d-inline-block" src="{{ .Params.image | absURL }}" alt="blog-image">
-                <h1 class="post-title">{{ .Title }}</h1>
+                <div class="box">
+                    <div class="left-pic">
+                        <div class="des">
+                            <h1 class="headtitle">
+                                {{.Params.Title_01}}
+                            </h1>
+                            {{.Params.Content_01}}
+                        </div>
+                        <div class="des-img">
+                            <img class="img-responsive post-thumb d-inline-block pic left"
+                                src="{{ .Params.image_01 | absURL }}" alt="blog-image">
+                        </div>
+
+                    </div>
+                    <div class="right-pic">
+                        <img class="img-responsive post-thumb d-inline-block des-img pic right"
+                            src="{{ .Params.image_02 | absURL }}" alt="blog-image">
+                        <div class="des">
+                            <h1 class="headtitle">
+                                {{.Params.Title_02}}
+                            </h1>
+                            {{.Params.Content_02}}
+                        </div>
+                    </div>
+                    <div class="left-pic">
+                        <div class="des">
+                            <h1 class="headtitle">
+                                {{.Params.Title_03}}
+                            </h1>
+                            {{.Params.Content_03}}
+                        </div>
+                        <div class="des-img">
+                            <img class="img-responsive post-thumb d-inline-block pic left"
+                                src="{{ .Params.image_03 | absURL }}" alt="blog-image">
+                        </div>
+
+                    </div>
+                    <div class="right-pic">
+                        <img class="img-responsive post-thumb d-inline-block des-img pic right"
+                            src="{{ .Params.image_04 | absURL }}" alt="blog-image">
+                        <div class="des">
+                            <h1 class="headtitle">
+                                {{.Params.Title_04}}
+                            </h1>
+                            {{.Params.Content_04}}
+                        </div>
+                    </div>
+                    <div class="left-pic">
+                        <div class="des">
+                            <h1 class="headtitle">
+                                {{.Params.Title_05}}
+                            </h1>
+                            {{.Params.Content_05}}
+                        </div>
+                        <div class="des-img">
+                            <img class="img-responsive post-thumb d-inline-block pic left"
+                                src="{{ .Params.image_05 | absURL }}" alt="blog-image">
+                        </div>
+
+                    </div>
+                    <div class="right-pic">
+                        <img class="img-responsive post-thumb d-inline-block des-img pic right"
+                            src="{{ .Params.image_06 | absURL }}" alt="blog-image">
+                        <div class="des">
+                            <h1 class="headtitle">
+                                {{.Params.Title_06}}
+                            </h1>
+                            {{.Params.Content_06}}
+                        </div>
+                    </div>
+                </div>
+
+                <!-- <h1 class="post-title">{{ .Title }}</h1>
                 <ul class="list-inline mb-50 post-meta">
                     <li class="list-inline-item">{{ .Params.author }}</li>
                     <li class="list-inline-item">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
-                </ul>
+                </ul> -->
             </div>
             <div class="col-md-8 col-md-offset-2">
                 <div class="post-single-content">
