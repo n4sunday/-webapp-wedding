@@ -127,7 +127,7 @@ price = "$ 25.00"
 [params.subscription]
 enable = true
 title= "SUBSCRIBE to our <span>NEWSLETTER</span>"
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+description = ""
 
 #Mailchimp subscription configaration 
 formAction = "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
