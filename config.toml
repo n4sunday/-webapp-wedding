@@ -54,33 +54,33 @@ url =  "images/header.jpg"
 
 [params.gallery]
 enable = true
-title= "Featured <span>Menu</span>"
+title= "Location <span>Review</span>"
 
 [[params.gallery.item]]
-img = "images/slider/slider-img-1.jpg"
+img = "images/slider/slide-01.jpg"
 
 [[params.gallery.item]]
-img = "images/slider/slider-img-2.jpg"
+img = "images/slider/slide-02.jpg"
 
 [[params.gallery.item]]
-img = "images/slider/slider-img-3.jpg"
+img = "images/slider/slide-03.jpg"
 
 [[params.gallery.item]]
-img = "images/slider/slider-img-4.jpg"
+img = "images/slider/slide-04.jpg"
 
 [[params.gallery.item]]
-img = "images/slider/slider-img-1.jpg"
+img = "images/slider/slide-05.jpg"
 
 [[params.gallery.item]]
-img = "images/slider/slider-img-2.jpg"
+img = "images/slider/slide-06.jpg"
 
 [[params.gallery.item]]
-img = "images/slider/slider-img-3.jpg"
+img = "images/slider/slide-07.jpg"
 
 
 [params.about]
 enable = true
-title= "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
+title= "True <span>Love</span> stories never have endings."
 bgImage = "images/cooker-img.png"
 description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
 

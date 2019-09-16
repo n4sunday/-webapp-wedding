@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
-                    <img src="{{ .Site.Params.about.bgImage | absURL }}" alt="Logo" />
+                    <img src="{{ .Site.Params.about.bgImage | absURL }}" alt="Logo" width="200"/>
                     <h1 class="heading wow fadeInUp" data-wow-duration="400ms" data-wow-delay="500ms" >
                         {{ with .Site.Params.about.title }} {{ . | safeHTML }} {{ end }}
                     </h1>
