@@ -1,7 +1,7 @@
 baseURL = "https://weddingpresent.netlify.com/"
 languageCode = "en-us"
 title = "Restaurant Theme By Themefisher"
-theme="restaurant-hugo"
+theme=""
 summaryLength = "7"
 
 # Menu
