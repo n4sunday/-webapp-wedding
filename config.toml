@@ -92,35 +92,28 @@ description= "Your wedding day is the most memorable of your life. To help make 
 [params.foodMenu]
 enable = true
 title = "Our Easy <span>PRICE</span>"
-description= " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-subtitle = "FEATURED ON THE WEEK"
+description= ""
+subtitle = "PROMOTIONS ON THE WEEK"
 
 [[params.foodMenu.item]]
-title="Pancakes n' Such Titas"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 125.00"
+title="PRE WEDDING & WEDDING DAY [ALL-IN]"
+description= "Pre wedding + Wedding Day, VDO Behind The Scene, Gift 200 items, Hair and makeup..."
+price = "$ 2999"
 
 [[params.foodMenu.item]]
-title="Caesar Salad"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 100.00"
+title="PRE WEDDING [SIZE XL]"
+description= "20 x 30 picture frame with 1 Louis frame. Makeup, hair style, taken all day. Pre-wedding shooting day set, amount 6 sets"
+price = "$ 899"
 
 [[params.foodMenu.item]]
-title="Steak with a Garlic and Parsley Risotto"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 20.00"
+title="PRE WEDDING [SIZE L]"
+description= "20 x 30 picture frame with 1 Louis frame. Makeup, hair style, taken all day."
+price = "$ 499"
 
 [[params.foodMenu.item]]
-title="Meat of Skewers"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 45.00"
-
-[[params.foodMenu.item]]
-title="Pancakes n' Such"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 25.00"
-
-
+title="PRE WEDDING [KISS]"
+description= "20 x 30 picture frame with 1 Louis frame. Makeup, Wedding dress for each bride / groom, Music presentation slideshow"
+price = "$ 1699"
 
 #subscription
 

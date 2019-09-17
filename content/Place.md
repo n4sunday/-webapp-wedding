@@ -1,7 +1,7 @@
 ---
 title: "Place"
 date: 2019-09-06T12:30:01+06:00
-image: images/blog/blog-img-6.jpg
+image: images/blog/place-01.jpg
 type: "post"
 
 Title_01: Nick & G's

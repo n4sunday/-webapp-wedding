@@ -1,7 +1,7 @@
 ---
 title: "Cards"
 date: 2019-3-28T12:30:01+06:00
-image: images/blog/blog-img-5.jpg
+image: images/blog/card-5.jpg
 type: "post"
 
 Title_01: SDezigns Weddings

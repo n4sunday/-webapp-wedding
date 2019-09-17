@@ -1,7 +1,7 @@
 ---
 title: "Gift"
 date: 2019-06-08T12:30:01+06:00
-image: images/blog/blog-img-8.jpg
+image: images/blog/gift-4.jpg
 type: "post"
 
 Title_01: Clif Family
@@ -30,7 +30,6 @@ image_06: images/blog/gift-6.jpg
 
 ---
 Wedding favors are another way to say “thank you” to your guests for joining you on your special day. We recommend starting to browse wedding favors and gifts (such as those for bridesmaids, groomsmen, and parents) about three months before your wedding, especially if you’re planning on personalizing your wedding favors or gifts.
-
 
 
 
