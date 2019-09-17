@@ -675,19 +675,24 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   border: 1px solid #7EC3BB;
 }
 #contact-us .block a {
-  background: #FF4F02;
+  background: #f0837d;
+  border: 2px solid #f0837d;
   float: right;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
   border-radius: 0px;
-  border: 0px;
   width: 512px;
   height: 50px;
   padding-top: 15px;
   -webkit-transition: .3s all;
   -o-transition: .3s all;
   transition: .3s all;
+}
+#contact-us .block a:hover {
+  border: 2px solid #f0837d;
+  background: #fff;
+  color: #f0837d;
 }
 /*--
     footer Start
