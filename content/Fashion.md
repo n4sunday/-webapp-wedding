@@ -29,7 +29,7 @@ Content_06: <DESCRIPTION> Silhouette Mermaid, Neckline High Neck, Floor, Lace
 image_06: images/blog/fashion-6.jpg
 
 ---
-Essense of Australia wedding dresses are inspired by the ethereal beauty and romantic spirit found in Australia’s natural wilderness. Combining elegant fabrics with intricate beading, Essense of Australia wedding dresses are designed for fashionable brides who appreciate the romance and tradition of classic bridal styles. From plus-size wedding gowns and dresses with sleeves, to vintage and glamorous styles, Essense of Australia wedding dresses create an unforgettable wedding-day look.
+Essense of Australia wedding dresses are inspired by the ethereal beauty and romantic spirit found in Australia’s...
 
 
 

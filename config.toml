@@ -101,6 +101,11 @@ description= "Pre wedding + Wedding Day, VDO Behind The Scene, Gift 200 items, H
 price = "$ 2999"
 
 [[params.foodMenu.item]]
+title="PRE WEDDING [KISS]"
+description= "20 x 30 picture frame with 1 Louis frame. Makeup, Wedding dress for each bride / groom, Music presentation slideshow"
+price = "$ 1699"
+
+[[params.foodMenu.item]]
 title="PRE WEDDING [SIZE XL]"
 description= "20 x 30 picture frame with 1 Louis frame. Makeup, hair style, taken all day. Pre-wedding shooting day set, amount 6 sets"
 price = "$ 899"
@@ -109,11 +114,6 @@ price = "$ 899"
 title="PRE WEDDING [SIZE L]"
 description= "20 x 30 picture frame with 1 Louis frame. Makeup, hair style, taken all day."
 price = "$ 499"
-
-[[params.foodMenu.item]]
-title="PRE WEDDING [KISS]"
-description= "20 x 30 picture frame with 1 Louis frame. Makeup, Wedding dress for each bride / groom, Music presentation slideshow"
-price = "$ 1699"
 
 #subscription
 
