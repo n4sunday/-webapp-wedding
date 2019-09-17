@@ -1,6 +1,6 @@
 ---
 title: "Place"
-date: 2018-12-26T12:30:01+06:00
+date: 2019-09-06T12:30:01+06:00
 image: images/blog/blog-img-6.jpg
 type: "post"
 

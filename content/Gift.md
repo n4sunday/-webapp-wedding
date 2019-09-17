@@ -1,6 +1,6 @@
 ---
 title: "Gift"
-date: 2018-12-26T12:30:01+06:00
+date: 2019-06-08T12:30:01+06:00
 image: images/blog/blog-img-8.jpg
 type: "post"
 

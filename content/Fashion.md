@@ -1,6 +1,6 @@
 ---
 title: "Fashion"
-date: 2018-12-26T12:30:01+06:00
+date: 2019-08-01T12:30:01+06:00
 image: images/blog/blog-img-7.jpg
 type: "post"
 

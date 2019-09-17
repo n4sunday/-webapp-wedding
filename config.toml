@@ -147,24 +147,24 @@ description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 [params.footer]
 enable = true
 contactInfoTitle = "CONTACT <span>INFO</span> "
-blogTitle = "LATEST <span>BLOG POSTS</span>"
+blogTitle = "LATEST <span>UPDATE</span>"
 galleryTitle = "PHOTO <span>STREAM</span>"
 socialTitle = "Follow <span>US</span>"
 
 [[params.footer.contactItem]]
 title="Telephone"
 icon = "fa fa-phone"
-content = "016742 323313"
+content = "07985 25987"
 
 [[params.footer.contactItem]]
 title="Address"
 icon = "fa fa-map-marker"
-content = "2046 Blue Spruce Lane Laurel Canada"
+content = "80/2 Khatu Phuket 83120"
 
 [[params.footer.contactItem]]
 title="E mail"
 icon = "fa fa-envelope"
-content = "rest@gmail.com - rest@mail.ru"
+content = "weddingpresent@gmail.com"
 
 [[params.footer.socialLink]]
 icon = "facebook"
@@ -189,7 +189,7 @@ link = "https://fb.com/themefisher"
 #Footer Copyright Text
 [params.footerCopyright]
 enable = true
-Text = "Copyright 2019 - All Rights Reserved.Design and Developed By Themefisher.com"
+Text = "Copyright 2019 - All Rights Wedding Present and Developed By N4S and Theme by Themefisher.com"
 
 
 
